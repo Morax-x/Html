@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" role="img" aria-label="Casti">
+  <path d="M50 78 V60 a50 50 0 0 1 100 0 v18" fill="none" stroke="#3d4a5c" stroke-width="10" stroke-linecap="round"/>
+  <rect x="36" y="70" width="22" height="34" rx="10" fill="#3d4a5c"/>
+  <rect x="142" y="70" width="22" height="34" rx="10" fill="#3d4a5c"/>
+</svg>

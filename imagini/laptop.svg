@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" role="img" aria-label="Laptop">
+  <rect x="30" y="20" width="140" height="70" rx="5" fill="#3d4a5c"/>
+  <rect x="37" y="27" width="126" height="56" rx="3" fill="#8fb4d9"/>
+  <rect x="18" y="90" width="164" height="10" rx="5" fill="#c8ccd2"/>
+</svg>
